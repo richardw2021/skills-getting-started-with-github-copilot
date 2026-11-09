@@ -74,6 +74,42 @@ activities = {
         "schedule": "Tuesdays, 4:00 PM - 5:30 PM",
         "max_participants": 14,
         "participants": []
+    },
+    "Basketball Team": {
+        "description": "Build basketball skills and compete in team games",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 18,
+        "participants": []
+    },
+    "Volleyball Club": {
+        "description": "Practice volleyball skills and play friendly matches",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Photography Club": {
+        "description": "Learn photography techniques and create visual stories",
+        "schedule": "Tuesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Music Ensemble": {
+        "description": "Develop musical skills and perform together as an ensemble",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": []
+    },
+    "Robotics Club": {
+        "description": "Design, build, and program robots while solving engineering challenges",
+        "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 16,
+        "participants": []
+    },
+    "Math Club": {
+        "description": "Explore mathematical puzzles and solve problems collaboratively",
+        "schedule": "Fridays, 3:30 PM - 5:00 PM",
+        "max_participants": 14,
+        "participants": []
     }
 }
 
